@@ -1,0 +1,17 @@
+E:\source_code\ohreto\ohreto-backend\src\main\java\com\reto\springboot\backend\apirest\models\services\IClienteService.java
+E:\source_code\ohreto\ohreto-backend\src\main\java\com\reto\springboot\backend\apirest\controllers\ProductoRestController.java
+E:\source_code\ohreto\ohreto-backend\src\main\java\com\reto\springboot\backend\apirest\models\dao\IClienteDao.java
+E:\source_code\ohreto\ohreto-backend\src\main\java\com\reto\springboot\backend\apirest\models\entity\DetalleVenta.java
+E:\source_code\ohreto\ohreto-backend\src\main\java\com\reto\springboot\backend\apirest\models\dao\IVentaDao.java
+E:\source_code\ohreto\ohreto-backend\src\main\java\com\reto\springboot\backend\apirest\models\dao\IProductoDao.java
+E:\source_code\ohreto\ohreto-backend\src\main\java\com\reto\springboot\backend\apirest\models\entity\Cliente.java
+E:\source_code\ohreto\ohreto-backend\src\main\java\com\reto\springboot\backend\apirest\models\services\IProductoService.java
+E:\source_code\ohreto\ohreto-backend\src\main\java\com\reto\springboot\backend\apirest\models\services\ClienteServiceImpl.java
+E:\source_code\ohreto\ohreto-backend\src\main\java\com\reto\springboot\backend\apirest\models\services\ProductoServiceImpl.java
+E:\source_code\ohreto\ohreto-backend\src\main\java\com\reto\springboot\backend\apirest\models\entity\Producto.java
+E:\source_code\ohreto\ohreto-backend\src\main\java\com\reto\springboot\backend\apirest\controllers\ClienteRestController.java
+E:\source_code\ohreto\ohreto-backend\src\main\java\com\reto\springboot\backend\apirest\controllers\VentaRestController.java
+E:\source_code\ohreto\ohreto-backend\src\main\java\com\reto\springboot\backend\apirest\models\services\VentaServiceImpl.java
+E:\source_code\ohreto\ohreto-backend\src\main\java\com\reto\springboot\backend\apirest\models\services\IVentaService.java
+E:\source_code\ohreto\ohreto-backend\src\main\java\com\reto\springboot\backend\apirest\models\entity\Venta.java
+E:\source_code\ohreto\ohreto-backend\src\main\java\com\reto\springboot\backend\apirest\SpringBootBackendApirestApplication.java
