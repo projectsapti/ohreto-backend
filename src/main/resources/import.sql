@@ -1,5 +1,3 @@
-create database ohreto;
-use ohreto;
 INSERT INTO cliente (telefono,dni,nombre, apellido, email) VALUES('00011','40820001','Rommel', 'Mercadao', 'rommelrmr@gmail.com' );
 INSERT INTO cliente (telefono,dni,nombre, apellido, email) VALUES('00011','40820002','John', 'Does', 'johndos@gmail.com');
 INSERT INTO cliente (telefono,dni,nombre, apellido, email) VALUES('00011','40820003','Lapa', 'Torval', 'ltorvald@gmail.com');
