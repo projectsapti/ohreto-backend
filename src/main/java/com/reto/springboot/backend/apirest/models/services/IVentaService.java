@@ -14,7 +14,7 @@ public interface IVentaService {
 	public List<Venta> findAll();
 
 	public Page<Venta> findAll(Pageable pageable);
-
+	
 	public Venta findById(Long id);
 
 

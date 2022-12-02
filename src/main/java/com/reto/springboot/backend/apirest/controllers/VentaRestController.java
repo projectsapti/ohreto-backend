@@ -49,5 +49,4 @@ public class VentaRestController {
 		return ventaService.findById(id);
 	}
 
-
 }

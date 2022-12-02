@@ -33,6 +33,7 @@ public class VentaServiceImpl implements IVentaService {
 	public Page<Venta> findAll(Pageable pageable) {
 		return ventaDao.findAll(pageable);
 	}
+	
 
 	@Override
 	@Transactional(readOnly = true)
